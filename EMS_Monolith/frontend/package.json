@@ -1,0 +1,16 @@
+{
+  "name": "ems-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mui/material": "^7.2.0",
+    "axios": "^1.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
